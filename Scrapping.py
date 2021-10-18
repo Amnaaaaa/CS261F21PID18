@@ -13,6 +13,10 @@ dataContent = data.content
 
 print(dataContent)
 
+url = "https://www.servaid.com.pk/"
+data = requests.get(url)
+dataContent = data.content
+
 
 # In[ ]:
 
