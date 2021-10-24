@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons8_password_26px.png</file>
+    <file>icons8_user_50px.png</file>
+    <file>pic4.png</file>
+  </qresource>
+</RCC>
