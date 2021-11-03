@@ -104,7 +104,7 @@ font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>320</y>
+      <y>340</y>
       <width>571</width>
       <height>192</height>
      </rect>
@@ -121,19 +121,6 @@ font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
     </property>
     <property name="text">
      <string>     Product Name          Quantity          Price          Description          Category          Discount          Ingredients</string>
-    </property>
-   </widget>
-   <widget class="QScrollBar" name="verticalScrollBar">
-    <property name="geometry">
-     <rect>
-      <x>590</x>
-      <y>340</y>
-      <width>16</width>
-      <height>171</height>
-     </rect>
-    </property>
-    <property name="orientation">
-     <enum>Qt::Vertical</enum>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_5">
@@ -153,7 +140,7 @@ font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
     <property name="geometry">
      <rect>
       <x>520</x>
-      <y>30</y>
+      <y>20</y>
       <width>221</width>
       <height>251</height>
      </rect>

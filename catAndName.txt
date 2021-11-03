@@ -1,0 +1,6 @@
+"https://www.1mg.com/categories/featured/new-launches-888","https://www.1mg.com/categories/featured/deals-of-the-day-947","https://www.1mg.com/categories/featured/minimum33percent-off-395","https://www.1mg.com/categories/featured/buy-more-save-more-363","https://www.1mg.com/categories/medical-devices-12","https://www.1mg.com/categories/personal-care/oral-care-26","https://www.1mg.com/categories/featured-128","https://www.1mg.com/categories/fitness-supplements/protein-supplements-7","https://www.1mg.com/categories/coronavirus-prevention-925","https://www.1mg.com/categories/fitness-supplements/family-nutrition-196","https://www.1mg.com/categories/diabetes-1","https://www.1mg.com/categories/medical-devices/mobility-equipments-187","https://www.1mg.com/categories/personal-care/baby-child-care-24","https://www.1mg.com/categories/featured/winter-care-65","https://www.1mg.com/categories/personal-care/women-care-23"
+
+
+"EXPLORE SOMETHING NEW","Deals of the Day","Minimum 33% Off","BUY MORE, SAVE MORE","HEALTHCARE DEVICES","ORAL CARE","FEATURED","PROTEIN SUPPLEMENTS","COVID TEST & PREVENTION","NUTRITIONAL DRINKS","DIABETES CARE","MOBILITY EQUIPMENTS","BABY CARE","WINTER CARE","WOMEN CARE"
+
+11,4,5,6,117,57,30,137,73,34,76,7,103,248,108
